@@ -1,0 +1,154 @@
+* {
+  text-align: justify;
+}
+
+body {
+	font-family: 'Arvo', serif;
+	text-transform: uppercase;
+
+}
+
+.wrapper {
+  width: 450px;
+  margin: 0 auto;
+}
+
+p {
+  margin-bottom: -15px;
+  clear: both;
+}
+
+.xs {
+  font-size: 12px;
+  /* float: right; */
+}
+
+.sm {
+  font-size: 15px;
+}
+
+.md-first {
+  font-size: 19px;
+  line-height: 1.2;
+}
+
+.md-space {
+  font-size: 23px;
+  font-weight: 500;
+  letter-spacing: 1;
+}
+
+.md {
+  font-size: 19px;
+  line-height: -;
+}
+
+.md-wait {
+  font-size: 18px;
+}
+
+.md-stop {
+  font-size: 18px;
+
+}
+
+.md-bite {
+  font-size: 23px;
+  letter-spacing: .4px;
+}
+
+.lg {
+  font-size: 25px;
+}
+
+.lg-start {
+  font-size: 26px;
+}
+
+.xl-first {
+  font-size: 30px;
+  /* width: 55%; */
+}
+
+.xl-simple {
+  font-size: 30px;
+  line-height: 1.2;
+}
+
+.life {
+	font-size: 95px;
+  float: right;
+  line-height: 1;
+  /* width: 60%; */
+}
+
+.left {
+  float: left;
+  width: 52%;
+}
+
+.people {
+  font-size: 16px;
+}
+
+.sm-dream {
+  font-size: 17px;
+}
+
+.right {
+  float: right;
+  width: 48%;
+  line-height: 1;
+}
+
+.xl-travel {
+  font-size: 26px;
+  float: left;
+  width: 50%;
+  line-height: 1.4;
+}
+.sm-lost {
+  font-size: 17px;
+  letter-spacing: 1.3px;
+}
+
+.xs-help {
+  font-size: 16px;
+}
+
+.md-create {
+  font-size: 22px;
+}
+
+.lg-create {
+  font-size: 25px;
+}
+
+.left-short {
+  width: 45%;
+}
+
+.short {
+	font-size: 56px;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.right-short {
+  width: 54%;
+}
+
+.lg-dream {
+  font-size: 26px;
+}
+
+.share {
+  font-size: 36px;
+  line-height: 1;
+  /* float: left; */
+}
+
+.xl-passion {
+  font-size: 30px;
+  /* float: left; */
+}
